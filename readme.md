@@ -1,7 +1,9 @@
 # A/B Testing Framework for E-commerce
 
 ## Overview
-Robust experimental framework for Zalando-style conversion rate optimization. Features:
+Robust experimental framework for Zalando-style conversion rate optimization. The code will test and store important metrics and plots and then use LLM model (Mistral via Ollama) to interprete the results and generate executive report.
+
+Features:
 - Bias detection (SRM, duration checks)
 - Multiple testing approaches (Frequentist, Bayesian, CUPED)
 - Heterogeneous treatment effects
@@ -13,13 +15,9 @@ Robust experimental framework for Zalando-style conversion rate optimization. Fe
 ✅ _Statistical Robustness Validation_  
 ✅ _Business Impact Forecasting_  
 ✅ _Causal Inference Techniques_  
-✅ _Automated Executive Reporting_
+✅ _Automated Executive Reporting using LLM_
 
 ## How to Use
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
 # Run analysis
 python src/ab_test_analysis.py \
   --data_path data/ab_test.csv \
