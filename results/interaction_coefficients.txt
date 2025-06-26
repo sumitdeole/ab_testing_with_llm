@@ -1,0 +1,3 @@
+Treatment Coefficient: -0.014326
+Duration Coefficient: -0.008415
+Interaction Coefficient: 0.011193

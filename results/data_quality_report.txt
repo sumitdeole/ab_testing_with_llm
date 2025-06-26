@@ -1,0 +1,10 @@
+=== DATA QUALITY REPORT ===
+Dataset shape: (290584, 5)
+Missing values:
+id           0
+time         0
+con_treat    0
+page         0
+converted    0
+dtype: int64
+Duplicate rows: 0

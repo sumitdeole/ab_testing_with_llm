@@ -1,0 +1,9 @@
+Control Rate: 0.120386
+Treatment Rate: 0.118808
+Absolute Difference: -0.001578
+Relative Lift: -1.31%
+Z-statistic: 1.3109
+P-value: 0.189883
+95% CI: [-0.003938, 0.000781]
+Effect Size: -0.0049
+Significant: False

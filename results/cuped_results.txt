@@ -1,0 +1,2 @@
+Variance Reduction: 0.00%
+CUPED p-value: 0.189620
