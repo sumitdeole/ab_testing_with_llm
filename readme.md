@@ -8,14 +8,14 @@ Features:
 - Multiple testing approaches (Frequentist, Bayesian, CUPED)
 - Heterogeneous treatment effects
 - Business impact simulations
-- Executive reporting
+- Executive reporting using LLM
 
 ## Key Features
 ✅ _Data Quality Checks_  
 ✅ _Statistical Robustness Validation_  
 ✅ _Business Impact Forecasting_  
 ✅ _Causal Inference Techniques_  
-✅ _Automated Executive Reporting using LLM_
+✅ _Automated Executive Reporting_
 
 ## How to Use
 # Run analysis
