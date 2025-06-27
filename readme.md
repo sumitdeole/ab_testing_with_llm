@@ -17,8 +17,7 @@ Features:
 ✅ _Causal Inference Techniques_  
 ✅ _Automated Executive Reporting_
 
-## How to Use
-# Run analysis
+## Run analysis
 python src/ab_test_analysis.py \
   --data_path data/ab_test.csv \
   --daily_users 75000 \
